@@ -1,0 +1,40 @@
+.buttoncomp{
+    font-family:ariel;
+	padding:10px;
+    margin:20px;
+    border-width:2px;
+    background-color:black;
+    color:white;
+    border-radius:20px;
+    float:right;
+}
+.header{
+    border-radius:20px 20px 0px 0px;
+    height:80px;
+    width:1000px;
+    margin:0px auto;
+    background: linear-gradient(
+    30deg,
+    rgb(39, 176, 255) 0%,
+    rgb(0, 232, 236) 100%
+    );
+
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+}
+.bodycomp{
+    background-color:black;
+}
+.textcomp{
+    color:white;
+    text-align: justify;
+}
+.main{
+    background-color: black;
+    margin: 0px auto;
+    width: 1000px;
+    height:1000px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius:0px 0px 20px 20px;
+    height: 600px;
+}
